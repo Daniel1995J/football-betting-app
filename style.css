@@ -1,0 +1,5 @@
+body{background:#0b6623;color:#fff;font-family:sans-serif}
+.container{max-width:420px;margin:auto;padding:20px}
+input,textarea,button{width:100%;margin:8px 0;padding:10px;border-radius:8px;border:none}
+button{background:#1db954;color:#fff;font-weight:bold}
+pre{background:#111;padding:10px;border-radius:8px;white-space:pre-wrap}
